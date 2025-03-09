@@ -26,4 +26,4 @@ Sample Size: 28x28
 [Changes in the batch sizes](https://github.com/sayantan-kuila/pytorch/blob/main/batch_size.md)  
 [Changes in the number of hidden layers](https://github.com/sayantan-kuila/pytorch/blob/main/hidden_layer.md)  
 [Changes in learning rate](https://github.com/sayantan-kuila/pytorch/blob/main/learning_rate.md)  
-[Changes in the number of neurons in a hidden layer](https://github.com/sayantan-kuila/pytorch/blob/main/learning_rate.md)  
+[Changes in the number of neurons in a hidden layer](https://github.com/sayantan-kuila/pytorch/blob/main/hidden_layer.md)  
