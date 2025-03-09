@@ -69,7 +69,6 @@ For ReLu activation function:
 
 <img width="570" alt="image" src="https://github.com/user-attachments/assets/97895576-1caf-495b-b532-f24e169da9af" />
 
-
 For Tanh activation function
 
 ![image](https://github.com/user-attachments/assets/64920ed0-c8cd-44fa-85a6-fa5d90e00b7c)
