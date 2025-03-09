@@ -30,6 +30,8 @@
 | 0.1                 | 10    | 0.20              | 0.18             | 2.11         | 2.13         |
 
 
+## Training vs Testing Loss
+
 For very low learning rate: 0.00000000001
 
 ![image](https://github.com/user-attachments/assets/c557f7b3-5310-434d-853e-71ff4f7654b6)
