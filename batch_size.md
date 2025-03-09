@@ -1,9 +1,9 @@
 ## Changes in batch size
 
-Hidden Layers: 28*28 - 64 - 128 - 254 - 10
-Activation Function: ReLu
-Loss Function: crossentropy
-Optimizer: Adam
+**Hidden Layers:** 28*28 - 64 - 128 - 254 - 10  
+**Activation Function:** ReLu  
+**Loss Function:** crossentropy  
+**Optimizer:** Adam
 
 | Batch Size | Epoch | Training Accuracy | Testing Accuracy | Training Loss | Testing Loss |
 |------------|-------|-------------------|------------------|---------------|--------------|
