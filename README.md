@@ -20,5 +20,10 @@ Sample Size: 28x28
 
 ![image](https://github.com/user-attachments/assets/c51ebd68-f889-4de5-a3b4-dc055e242eeb)
 
-## Observations
+## Evaluation Tables
 
+[Changes in the activation function](https://github.com/sayantan-kuila/pytorch/blob/main/activation_function.md)  
+[Changes in the batch sizes](https://github.com/sayantan-kuila/pytorch/blob/main/batch_size.md)  
+[Changes in the number of hidden layers](https://github.com/sayantan-kuila/pytorch/blob/main/hidden_layer.md)  
+[Changes in learning rate](https://github.com/sayantan-kuila/pytorch/blob/main/learning_rate.md)  
+[Changes in the number of neurons in a hidden layer](https://github.com/sayantan-kuila/pytorch/blob/main/learning_rate.md)  
