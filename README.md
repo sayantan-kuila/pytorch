@@ -18,7 +18,11 @@ Sample Size: 28x28
 
 ### Samples
 
-![image](https://github.com/user-attachments/assets/c51ebd68-f889-4de5-a3b4-dc055e242eeb)
+![image](https://github.com/user-attachments/assets/c51ebd68-f889-4de5-a3b4-dc055e242eeb)  
+
+## Code
+
+Jupyter Notebook File: [mnist_ann.ipynb](https://github.com/sayantan-kuila/pytorch/blob/main/mnist_ann.ipynb)  
 
 ## Evaluation Tables
 
