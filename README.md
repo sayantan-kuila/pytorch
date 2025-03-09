@@ -3,7 +3,7 @@
 This repository involves training an Artificial Neural Network (ANN) model on the MNIST dataset. The model’s performance is evaluated under different conditions, and the results are presented in five tables showing training accuracy, testing accuracy, training loss, and testing loss across multiple epochs.
 
 ## MNIST Dataset
-Dataset download [Link](https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view).
+Dataset download [link](https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view).
 
 ### Dataset Statistics 
 Color: Grey-scale
