@@ -6,8 +6,8 @@ This repository involves training an Artificial Neural Network (ANN) model on th
 Dataset download [link](https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view).
 
 ### Dataset Statistics 
-Color: Grey-scale
-Sample Size: 28x28
+**Color:** Grey-scale  
+**Sample Size:** 28x28
 
 ### The Number of Samples per Category for MNIST
 
